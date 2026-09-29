@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QMEE
 Bio 708
 
@@ -38,3 +39,7 @@ This makes a boxplot of the total distance travelled during the assay by each of
 This also makes a boxplot of the maximum velocity immediately following the startle(first 20s) for each of the groups, with the median value noted on the boxplot. 
 
 In the future I hope to complete statistical tests to identify if differences between any of the groups are statistically significant - but maybe I can do that later in the course once we have learned when to do different tests!
+=======
+Critical swim capacity test of adult fish with a SETBP1 mutation
+>>>>>>> 7aca7c299d610c669ee238d88c4bf63a06ff8322
+# SETBP1-HD
